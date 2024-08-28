@@ -21,32 +21,32 @@ For handling image reordering and insertion within the table.
 To get started with this project, clone the repository from GitHub,and open the table.exe file
 
 
-#项目名称: SABCTableView
-##描述:
+# 项目名称: SABCTableView
+## 描述:
 SABCTableView 是一个基于 Qt 的应用程序，旨在通过 QTableView 界面管理和显示排名等级和游戏封面图片。该项目包括高级的拖拽功能，用户可以轻松地在表格的特定单元格中重新排序和插入图片。
 
-#功能:
-##排名显示:
+# 功能:
+## 排名显示:
 动态显示排名等级（S、A、B、C、D），并支持自定义背景颜色。
 
-##拖拽支持:
+## 拖拽支持:
 允许用户将单个或多个游戏封面图片拖放到表格中。支持“队列”和“插队”操作，允许将图片按顺序或插入到某行的特定位置。
 
-##操作窗口:
+## 操作窗口:
 在表格的最后一列集成了一个自定义操作窗口，具有删除图片或清除整行的按钮。
 
-##界面定制:
+## 界面定制:
 使用 CSS 进行样式设计，提供暗色主题，并带有交互式的 QLabel 控件，模拟按钮的行为。
 
-##技术使用:
-###C++/Qt:
+## 技术使用:
+### C++/Qt:
 核心应用逻辑和 UI 组件。
 
-###QTableView 和 QStyledItemDelegate:
+### QTableView 和 QStyledItemDelegate:
 用于高级单元格渲染和交互的自定义表格视图和委托。
 
-###拖拽 API:
+### 拖拽 API:
 用于处理表格内的图片重新排序和插入操作。
 
-#入门指南:
+# 如何开始:
 要开始使用此项目，请从 GitHub 克隆存储库，并打开 table.exe 文件。
