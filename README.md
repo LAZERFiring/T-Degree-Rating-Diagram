@@ -1,4 +1,4 @@
-# Project Name: SABCTableView
+# Project Name: T-degree rating diagram
 ## Description:
 SABCTableView is a Qt-based application designed to manage and display ranking levels and game cover images within a QTableView interface. The project includes advanced drag-and-drop functionality, enabling users to easily reorder and insert images into specific cells of the table.
 ## Features:
@@ -21,7 +21,7 @@ For handling image reordering and insertion within the table.
 To get started with this project, clone the repository from GitHub,and open the table.exe file
 
 
-# 项目名称: SABCTableView
+# 项目名称: T度等级图
 ## 描述:
 SABCTableView 是一个基于 Qt 的应用程序，旨在通过 QTableView 界面管理和显示排名等级和游戏封面图片。该项目包括高级的拖拽功能，用户可以轻松地在表格的特定单元格中重新排序和插入图片。
 
