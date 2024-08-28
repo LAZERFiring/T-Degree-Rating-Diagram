@@ -17,5 +17,5 @@ Core application logic and UI components
 Custom table view and delegate for advanced cell rendering and interaction.
 ### Drag-and-Drop API:
 For handling image reordering and insertion within the table.
-### Getting Started:
+# Getting Started:
 To get started with this project, clone the repository from GitHub,and open the table.exe file
